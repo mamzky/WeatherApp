@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature_text">Temperature</string>
+    <string name="condition_text">Condition</string>
+    <string name="location_text">Location</string>
+
+
+    <string-array name="makanan_hujan">
+        <item>Indomie rebus</item>
+        <item>Wedang Jahe</item>
+        <item>Bakso</item>
+        <item>Pisang Goreng</item>
+        <item>Jagung Rebus</item>
+        <item>Pempek Palembang</item>
+        <item>Susuu Hangat</item>
+    </string-array>
+
+    <string-array name="makanan_cerah">
+        <item>Sayur Hijau</item>
+        <item>Es Kelapa</item>
+        <item>Timun</item>
+        <item>Es Duren</item>
+        <item>Es Serut</item>
+    </string-array>
+</resources>
